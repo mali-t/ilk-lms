@@ -1,5 +1,12 @@
 git 1
 estropol yeni ek
+<<<<<<< HEAD
 zagan 
 turakaş
 pankurtalistizm
+=======
+fişkar 
+daşkar patar kasar
+tatatatatr
+
+>>>>>>> erol
